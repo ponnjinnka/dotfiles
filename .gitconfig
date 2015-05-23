@@ -1,0 +1,8 @@
+[user]
+	name = Ryota Kato
+	email = penponnnnjinnka@gmail.com
+[core]
+	editor = mvim -f
+[alias]
+	co = checkout
+	st = status
