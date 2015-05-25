@@ -40,3 +40,8 @@ set grepprg=grep\ -nh
  
 " 検索結果のハイライトをEsc連打でクリアする
 nnoremap <ESC><ESC> :nohlsearch<CR>
+
+" スペルチェック
+set spelllang=en,cjk
+
+" プラグインの導入
